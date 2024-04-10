@@ -2,7 +2,7 @@ html, body{
   width: 100%; 
   height: 100%; 
   margin: 0;
-  background-color: #fafafa;
+  background-color: #69a6e8;
 }
 
 .main {
@@ -24,7 +24,7 @@ html, body{
   padding-left: 10px;
   padding-right: 10px;
 
-  background-color: white;
+  background-color: rgb(255, 255, 255);
 
   width: 75%;
   border-radius: 10px;
@@ -34,5 +34,5 @@ html, body{
 }
 
 .space {
-  color: #fafafa;
+  color: #69a6e8;
 }
